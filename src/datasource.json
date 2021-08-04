@@ -1,0 +1,96 @@
+{
+  "cardData": [
+    {
+      "Id": "01",
+      "Title": "National Program Reducer",
+      "Status": "Open",
+      "Summary": "Analyze customer requirements.",
+      "Priority": "High",
+      "Tags": "High",
+      "RankId": 1
+    },
+    {
+      "Id": "02",
+      "Title": "Forward Communicate Supervisor",
+      "Status": "InProgress",
+      "Summary": "Add responsive support to applicaton",
+      "Priority": "Low",
+      "Tags": "Low",
+      "RankId": 1
+    },
+    {
+      "Id": "03",
+      "Title": "Lead Directive Supervisor",
+      "Status": "Review",
+      "Summary": "Show the retrived data from the server in grid control.",
+      "Priority": "High",
+      "Tags": "High",
+      "RankId": 2
+    },
+    {
+      "Id": "04",
+      "Title": "Direct Program Facilitator",
+      "Status": "Close",
+      "Summary": "Fix the issues reported in the IE browser.",
+      "Priority": "High",
+      "Tags": "High",
+      "RankId": 3
+    },
+    {
+      "Id": "05",
+      "Title": "Principal Division manager",
+      "Status": "Open",
+      "Summary": "Improve application performance.",
+      "Priority": "Normal",
+      "Tags": "Normal",
+      "RankId": 1
+    },
+    {
+      "Id": "06",
+      "Title": "Forward Internet Producer",
+      "Status": "InProgress",
+      "Summary": "API Improvements.",
+      "Priority": "Critical",
+      "Tags": "Critical",
+      "RankId": 2
+    },
+    {
+      "Id": "07",
+      "Title": "Investor Tactics Associate",
+      "Status": "Review",
+      "Summary": "Fix cannot open user's default database sql error.",
+      "Priority": "High",
+      "Tags": "High",
+      "RankId": 8
+    },
+    {
+      "Id": "08",
+      "Title": "Senior Optimization Facilitator",
+      "Status": "Close",
+      "Summary": "Fix the filtering issues reported in safari.",
+      "Priority": "Critical",
+      "Tags": "Critical",
+      "RankId": 4
+
+    },
+    {
+      "Id": "09",
+      "Title": "Global Paradigm Facilitator",
+      "Status": "Open",
+      "Summary": "Fix the issues reported in IE browser.",
+      "Priority": "High",
+      "Tags": " High",
+      "RankId": 3
+    },
+    {
+      "Id": "10",
+      "Title": "Senior Implementation Representative",
+      "Status": "Close",
+      "Summary": "Enhance editing functionality.",
+      "Priority": "Normal",
+      "Tags": "Normal",
+      "RankId": 4
+    }
+
+  ]
+}
